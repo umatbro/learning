@@ -13,3 +13,8 @@ nauczaniem maszynowym polecam następujące materiały:
 „lerningowych”  - wystarczy podłączyć input i output
 - https://www.coursera.org/learn/machine-learning – najbardziej znany kurs ML w internetach, darmowy
 - https://www.python-course.eu/numpy.php - praktycznie kompletne wprowadzenie do data science
+
+
+## Inne
+
+* [coursera](https://www.coursera.org/learn/machine-learning) - Machine Learning
